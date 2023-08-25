@@ -1,6 +1,7 @@
 ### Hi there 👋 My name is Stefan Hone
 
-🌍  I am a Junior Front-End Developer, having made the transition from Senior Web Designer, based in Glasgow, Scotland.
+🌍  I am a Junior Front-End Developer, having made the transition from Senior Web Designer. 
+🏴󠁧󠁢󠁳󠁣󠁴󠁿 Based in Glasgow, Scotland.
 
 <!--
 **stefhone/stefhone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
