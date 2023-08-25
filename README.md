@@ -1,6 +1,7 @@
 ### Hi there 👋 My name is Stefan Hone
 
-🌍  I am a Junior Front-End Developer, having made the transition from Senior Web Designer. 
+🌍  I am a Junior Front-End Developer, having made the transition from Senior Web Designer.
+<br />
 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Based in Glasgow, Scotland.
 
 <!--
