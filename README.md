@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Stefan Hone
 
-🌍  I am a Junior Front-End Developer, with a strong background in Web and HTML Email Design.
+🌍  I am a Mid-level Front-End Developer, with a very strong background in Web and HTML Email Design.
 <br />
 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Based in Glasgow, Scotland.
 
